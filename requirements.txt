@@ -3,6 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scipy
 jupyter
 notebook
 openpyxl
@@ -15,3 +16,5 @@ markdown
 requests
 beautifulsoup4
 ipykernel
+joblib
+streamlit
