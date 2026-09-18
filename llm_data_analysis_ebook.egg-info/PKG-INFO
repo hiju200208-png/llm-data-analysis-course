@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: llm-data-analysis-ebook
+Version: 0.1.0
+Summary: LLM Data Analysis ebook
+Requires-Python: >=3.11

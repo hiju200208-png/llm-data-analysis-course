@@ -3,11 +3,15 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "llm-data-analysis-course"
+name = "llm-data-analysis-ebook"
 version = "0.1.0"
-description = "LLM Data Analysis Course"
+description = "LLM Data Analysis ebook"
 requires-python = ">=3.11"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["course_utils*"]
+include = [
+    "course_utils*",
+    "src",
+    "src.*",
+]

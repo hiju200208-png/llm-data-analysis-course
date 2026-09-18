@@ -1,0 +1,10 @@
+pyproject.toml
+course_utils/__init__.py
+course_utils/paths.py
+llm_data_analysis_ebook.egg-info/PKG-INFO
+llm_data_analysis_ebook.egg-info/SOURCES.txt
+llm_data_analysis_ebook.egg-info/dependency_links.txt
+llm_data_analysis_ebook.egg-info/top_level.txt
+src/titanic_app/app.py
+src/titanic_app/features.py
+src/titanic_app/processing.py
