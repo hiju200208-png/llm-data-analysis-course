@@ -1,0 +1,27 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "baseYm": "202509",
+            "areaCd": "11",
+            "areaNm": "서울특별시",
+            "signguCd": "11530",
+            "signguNm": "구로구",
+            "tarExpDsIxCd": "2201",
+            "tarExpDsIxNm": "외지인 소비액",
+            "tarExpDsIxVal": "82.05"
+          }
+        ]
+      },
+      "numOfRows": 1,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}
